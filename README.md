@@ -1,7 +1,5 @@
 # Some Useful Scripts
 
-------
-
 该项目收集了一些实用的脚本，来解决平时可能遇到的一些问题🤔。
 
 ## 1. img2pdf.py
